@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# HuggingFace cache
+*.cache
+
+# VS Code
+.vscode/
+
+# Large files
+*.pt
+*.bin
+*.h5
